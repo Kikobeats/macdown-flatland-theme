@@ -6,4 +6,4 @@ Inspired in Flatland [Sublime](https://github.com/thinkpixellab/flatland)/[Atom]
 
 # How to install
 
-Go to `Mou > Preferences > Themes > Edit` and copy the files in the themes directory
+Go to `Mou > Preferences > Themes > Edit` and copy the files in the themes directory.
