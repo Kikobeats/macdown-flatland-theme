@@ -1,18 +1,12 @@
-# Flatland Markdown Theme
+# MacDown Flatland Theme
 
-> Compatible with Mou and MacDown
-
-Inspired in Flatland [Sublime](https://github.com/thinkpixellab/flatland)/[Atom](https://github.com/michaelhelmick/flatland-dark-ui) theme.
+> Inspired in Flatland [Sublime](https://github.com/thinkpixellab/flatland)/[Atom](https://github.com/michaelhelmick/flatland-dark-ui) theme.
 
 ![image](http://i.imgur.com/NUPZb4s.png)
 
+**Note**: This theme was originally written for [Mou](http://25.io/mou/) and currently is deprecated. [MacDown](http://macdown.uranusjr.com/) is Mou compatible with many improvements.
+
 ## How to install
-
-### Mou
-
-Go to `Mou > Preferences > Themes > Edit` and copy the files in the themes directory.
-
-### MacDown
 
 Go to `MacDown > Preferences > Editor > Reveal` and copy the files in the themes directory.
 
