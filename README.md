@@ -1,4 +1,4 @@
-# Flatland Markdown Editor
+# Flatland Markdown Theme
 
 > Compatible with Mou and MacDown
 
